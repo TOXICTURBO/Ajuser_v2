@@ -1,9 +1,9 @@
 {
-    "name": "Ajuser",
-    "description": "Ajuser bot - re-edited from asena. World’s first UserBot made for WhatsApp.",
-    "logo": "https://i.ibb.co/cK5fFMN/logo.jpg",
+    "name": "Toxic Bot",
+    "description": "Toxic bot - re-edited from asena. World’s first UserBot made for WhatsApp.",
+    "logo": "https://telegra.ph/file/514df658f7582f9f07209.jpg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/aju001/Ajuser_v2",
+    "repository": "https://github.com/TOXICTURBO/Ajuser_v2",
     "website":   "under maintenance",
     "success_url": "under maintenance",
     "stack": "container",
